@@ -1,7 +1,0 @@
-# Base (used if you run locally; Colab cells install pins per-notebook)
-pycaret>=3.0.4,<4
-gradio>=4.0,<5
-pandas-datareader>=0.10.0
-xgboost
-lightgbm
-catboost
