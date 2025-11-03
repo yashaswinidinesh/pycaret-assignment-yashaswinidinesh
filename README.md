@@ -27,12 +27,6 @@ This repo contains **original** Colab‑ready notebooks (no copy/paste from PyCa
 - `compare_models()` → `tune_model()` → `finalize_model()`
 - One quick plot (`plot_model(...)`)
 - `save_model(...)` + tiny inference
-
-## Folders
-- `notebooks/` — 8 Colab notebooks (one per task)
-- `gradio_apps/` — 2 simple CSV‑uploader demos (classification + regression)
-- `requirements.txt` — baseline for local environments (Colab cells already install exact pins)
-
 ---
 
 **Links referenced in the code comments:**  
